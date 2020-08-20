@@ -14,7 +14,6 @@ Check the [INTRO.md](INTRO.md) file for more!
 - [Part 3: Message Passing](https://youtu.be/zL1doYvi1Tc)
 - [Part 4: Reducer and Dispatch](https://youtu.be/V5O6CIC3hYY)
 - [Part 5: Using Redux](https://youtu.be/uZExhphm6aQ)
-
 - [Part 1 Slides](https://docs.google.com/presentation/d/1VFwXKi3yPy17WZD6KnOsMTIxuOIxnapzIoowMXPZHVw/edit#slide=id.p)
 - [Part 2 Slides](https://docs.google.com/presentation/d/1oKvrWKigPGhXahRPfTokL4NsoK0F1ywGJF3pUj51FAI/edit?usp=sharing)
 
