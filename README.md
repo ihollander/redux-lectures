@@ -7,6 +7,9 @@ In the first part of the lecture, we'll talk about what Redux is, when it is use
 
 Check the [INTRO.md](INTRO.md) file for more!
 
+## Resources
+- [Redux Cheat Sheet](https://gist.github.com/ihollander/84dbe410eb49cc5f5efae4bfb3be7536)
+
 ### Videos
 - [Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybzGhcZCrQAL6E1yS8JzehPM)
 - [Part 1: What is Redux?](https://youtu.be/ftfnqv918HM)
