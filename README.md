@@ -8,7 +8,7 @@ In the first part of the lecture, we'll talk about what Redux is, when it is use
 Check the [INTRO.md](INTRO.md) file for more!
 
 ## Resources
-- [Redux Cheat Sheet](https://gist.github.com/ihollander/84dbe410eb49cc5f5efae4bfb3be7536)
+There is a lot of new terminology to learn in Redux; use this [Redux Cheat Sheet](https://gist.github.com/ihollander/84dbe410eb49cc5f5efae4bfb3be7536) made by former Flatiron instructor Alex Griffith as a handy reference in case you need a refresher on any content from these lectures.
 
 ### Videos
 - [Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybzGhcZCrQAL6E1yS8JzehPM)
